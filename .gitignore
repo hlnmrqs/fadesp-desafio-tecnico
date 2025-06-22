@@ -1,0 +1,15 @@
+## Ignorar ambientes virtuais
+.venv
+
+venv
+
+env
+
+## Ignorar caches e configurações de IDEs
+.vscode/ .idea/ *.swp # Arquivos de swap do Vim *~ # Arquivos de backup do Emacs
+
+##  Ignorar caches e arquivos compilados do Python
+pycache/ *.pyc
+
+## Ignorar arquivos de log
+*.log
